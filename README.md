@@ -79,4 +79,4 @@ O workflow `.github/workflows/pipeline.yml` roda a cada push/pull request: baixa
 
 Publicado na Railway a partir deste repositório (build pelo `Dockerfile`). A porta é lida da variável `PORT` fornecida pela Railway.
 
-URL pública: `https://SEU-PROJETO.up.railway.app`
+URL pública: [(https://somativabackend2026-production.up.railway.app)]
